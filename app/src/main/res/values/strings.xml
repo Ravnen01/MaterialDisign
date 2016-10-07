@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppsoluteTest</string>
+    <string name="connexionTextAddCompte">Créer un Compte</string>
+    <string name="connexionTextPassWordForget">Mot de passe oublié</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#fff</color>
+    <color name="greyish">#b0b1af</color>
+    <color name="dark_sky_blue">#61b7e1</color>
+    <color name="duck_egg_blue">#bfe2f3</color>
+    <color name="purplish_grey">#735c75</color>
+    <color name="lipstick">#e63441</color>
+    <color name="lipstick_two">#c02232</color>
+    <color name="dirty_purple">#4b3a4c</color>
+    <color name="white_two">#efefef</color>
+    <color name="purpley_grey">#a18f97</color>
+    <color name="white_three">#fefefe</color>
+    <color name="purpley_grey_two">#98848d</color>
+    <color name="charcoal">#393b36</color>
+    <color name="black">#000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="white_30">#4dffffff</color>
+</resources>
